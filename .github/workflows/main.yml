@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v2.0.0
         with:
           github_user_name: Augustorf01
-          output: dist
+          outputs: dist/github-contribution-grid-snake.svg
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
