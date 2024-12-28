@@ -14,9 +14,15 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Augustorf01&theme=dracula&row=1&no-bg=true&column=2&row=1&margin-w=50&margin-h=35" />
 </p>
+
+<picture style="display: flex">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augustorf01/Augustorf01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Augustorf01/Augustorf01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
  
 ### Main skills:
-<div style="display: inline_block">
+<div style="display: flex">
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
   <img align="center" alt="Augusto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
