@@ -5,6 +5,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img width="41%" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustorf01&layout=compact&border_color=b346d3&title_color=f5f5f5&text_color=f5f5f5&bg_color=000" />
+  <a href='https://beacons.ai/Augustorf01'/>
 </div>
 
 <br>
