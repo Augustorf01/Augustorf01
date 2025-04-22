@@ -19,8 +19,8 @@
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 </div>
 
+### Studying in this moment:
 <div>  
-  ### Studying in this moment:
   <img align="center" alt="Augusto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
   
