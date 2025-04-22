@@ -28,7 +28,3 @@
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f00b2&height=120&section=footer"/>
 </div>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF&)](mailto:augusto@qualaboa.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/césar-fonseca-59419a300)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/augustorf_/)
