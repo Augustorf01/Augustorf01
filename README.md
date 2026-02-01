@@ -2,11 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Augusto+Fonseca;I+study+analysis+and+systems+development+at+Unifor;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img width="41%" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustorf01&layout=compact&border_color=b346d3&title_color=f5f5f5&text_color=f5f5f5&bg_color=000" />
-  <a href='https://beacons.ai/Augustorf01'/>
-</div>
-
 <br>
 
 ### Main skills:
